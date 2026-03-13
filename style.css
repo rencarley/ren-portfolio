@@ -10,33 +10,33 @@
 
 }
 
-:root {
+/* :root {
     --bg-color:#fff;
     --snd-bg-color:#d5fdf9;
     --text-color:#000;
     --main-color:#007f73;
-}
+} */
 
-html {
+/* html {
     font-size: 62.5%;
     overflow:hidden;
-}
+} */
 
-body {
+/* body {
     background:var(--bg-color);
     color:var(--text-color);
 
-}
+} */
 
-section {
+/* section {
     min-height: 100vh;
     padding:10rem 9% 2rem;
-}
+} */
 
 /*header section code*/
 
 
-.Header{
+/* .Header{
     position: fixed;
     width: 100%;
     top: 0%;
@@ -81,4 +81,4 @@ section {
     color: var(--bg-color);
     cursor: pointer;
     display: none;
-}
+} */
